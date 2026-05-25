@@ -1,12 +1,5 @@
-# Shaloong
-
 > **Real‑world productivity · Digital‑world ideation**  
 > **激发真实世界的生产力 · 数字世界的思想**
-
-We build software that sharpens productivity and sparks new ideas.  
-我们构建提升生产力、激发新思想的软件。
-
----
 
 ## Get Involved 携手共创
 
@@ -20,8 +13,6 @@ Right now, we’re working on small‑scope, high‑quality projects. Good first
 - [探索项目](https://github.com/orgs/shaloong/repositories)  
 - 合作请联系 [contact@shaloong.com](mailto:contact@shaloong.com)
 
----
-
 ## Code of Conduct 行为守则
 
 Shaloong adopts the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).  
@@ -29,8 +20,3 @@ We expect all participants to follow it.
 
 Shaloong 采用 [贡献者公约行为准则](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)。  
 请所有参与者共同遵守。
-
----
-
-> *Build for productivity and provocation.*  
-> *为生产力与思想激发而生。*
